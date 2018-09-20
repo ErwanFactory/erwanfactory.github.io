@@ -1,0 +1,33 @@
+[
+    {
+        "date": "Mars - Août 2018",
+        "intitule": "Ingénieur-stagiaire logiciel",
+        "contexte": "Bouygues Telecom (Nantes, France)",
+        "description": "Fournisseur d’accès à internet et opérateur téléphonique (7300 empl.). Création d’une application web de visualisation de données d’exécutions des systèmes de l’entreprise.",
+        "technologies" : ["Angular5", "MaterialDesign", "Bootstrap", "D3.js", "Java8", "SpringBoot", "ElasticSearch", "Jira", "Scrum", "Gitlab"],
+        "liens": []
+    },
+    {
+        "date" : "Mai - Août 2017",
+        "intitule" : "Développeur",
+        "contexte" : "NeuroConcise (Derry, Irlande du Nord)",
+        "description" : "Concepteur de casques utilisant l’activité cérébrale pour interagir avec des machines (4 empl.). Développement d’outils permettant la communication entre le casque et le logiciel Simulink en Bluetooth. Formation de développeurs sur Unity et supervision d’une équipe.",
+        "technologies" : ["C#", "C++/CLI"],
+        "liens" : [{ "libelle" : "présentation entreprise", "url" : "https://www.youtube.com/watch?v=v92lCZ33Pp0"}]
+    },
+    {
+        "date" : "Avril - Août 2015",
+        "intitule" : "Programmeur",
+        "contexte" : "Engie Axima (Nantes, France)",
+        "description" : "Travaux en Génie climatique, réfrigération et sécurité incendie (8000 empl.). Développement et amélioration d’outils métier sous forme d’Add-In Excel. Soutien technique et correction d’outils.",
+        "technologies" : ["C# .Net", "SQL Server"],
+        "liens" : []
+    },
+    {
+        "date" : "2015 - 2018",
+        "intitule" : "Etudiant en ingénierie spécialité Informatique",
+        "contexte" : "Polytech Nantes",
+        "description" : "Equivalent diplôme de maîtrise. Informatique fondamentale, conception logicielle, programmation, bases de données, gestion de projet, travail en équipe. Spécialisation en IHM, visualisation de données, nouvelles interactions (RV, mobile).",
+        "liens" : [{ "libelle" : "Polytech Nantes", "url" : "http://web.polytech.univ-nantes.fr/"}]
+    }
+]

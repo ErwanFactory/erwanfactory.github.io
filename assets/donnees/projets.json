@@ -1,0 +1,72 @@
+[
+    {
+        "date" : "2015 - 2017",
+        "intitule" : "Co-Président",
+        "contexte" : "Nantarena",
+        "description" : "Compétition de jeux vidéo réunissant 400+ participants. Gestion de partenariats, relationnel avec l’administration, aide polyvalente, gestion de crises.",
+        "liens" : [{ "libelle" : "nantarena.net", "url" : "http://www.nantarena.net/"}]
+    },
+    {
+        "date" : "2017",
+        "intitule" : "Reponsable repas",
+        "contexte" : "Polytech By Night",
+        "description" : "Membre de l’équipe organisatrice du bal de promotion de l’école Polytech Nantes accueillant environ 1200 personnes. Principalement responsable de l’organisation du repas des diplômés. Gestion d’un grand nombre de tâches et personnes en même temps",
+        "liens" : [{ "libelle" : "polytechbynight.com", "url" : "http://polytechbynight.com/"}]
+    },
+    {
+        "date" : "2017",
+        "intitule" : "Projet recherche et développement",
+        "contexte" : "Laboratoire des Sciences du Numérique de Nantes",
+        "description" : "Laboratoire de recherche en multimédia. Sujet : « Visualisation de données oculométriques obtenues dans un environnement de réalité virtuelle/augmentée ». Développement d’un package Unity de visualisation de données oculométriques obtenues grâce à un système de RV (casque HTC Vive, oculométrie SMI).",
+        "technologies" : ["Unity", "HTC Vive + SMI", "Python"],
+        "liens" : [{ "libelle" : "LS2N", "url" : "https://www.ls2n.fr/"}]
+    },
+    {
+        "date" : "2017",
+        "intitule" : "Rehabilitation Lab",
+        "contexte" : "Virtual Fantasy (Laval Virtual)",
+        "description" : "Développeur. Création en ~30h d’une application en réalité virtuelle pour la réhabilitation des personnes ayant perdu momentanément l’usage d’un membre.",
+        "technologies" : ["Unity", "HTC Vive"],
+        "liens" : [{ "libelle" : "code", "url" : "https://github.com/eadgyo/RehabilitationLab"}]
+    },
+    {
+        "date" : "2017",
+        "intitule" : "Whale Is Love",
+        "contexte" : "Global GameJam",
+        "description" : "Développeur. Shoot’em up se jouant avec la voix. Plus la voix est grave, plus l’attaque est grande mais lente et courte, plus la voix est aigue plus l’attaque est petite mais rapide et longue.",
+        "technologies" : ["Unity"],
+        "liens" : [{ "libelle" : "jeu .zip", "url" : "assets/jeux/whale_is_love_v4.zip"}, { "libelle" : "code", "url" : "https://github.com/Whale-Is-Love-Team/WhaleIsLove"}]
+    },
+    {
+        "date" : "2016",
+        "intitule" : "(In)Human Rampage",
+        "contexte" : "GameJam des Utopiales",
+        "description" : "Développeur et graphiste. Jeu d’action. Détruire des robots et utiliser leurs composants pour améliorer son personnage.",
+        "technologies" : ["Unity"],
+        "liens" : [{ "libelle" : "code", "url" : "https://github.com/Argann/human-rampage"}]
+    },
+    {
+        "date" : "2016",
+        "intitule" : "Le cube inverseur de gravité qui a des jambes",
+        "contexte" : "Grande confiture de jeu",
+        "description" : "Développeur. Jeu de plateforme. Le cube avance tout seul et il faut activer/désactiver la gravité pour pouvoir aller sur les bonnes plateformes.",
+        "technologies" : ["Unity"],
+        "liens" : [{ "libelle" : "executable", "url" : "assets/jeux/cube-inverseur-gravite-jambes.exe"}, { "libelle" : "code", "url" : "https://github.com/Argann/le-cube-inverseur-de-gravite"}]
+    },
+    {
+        "date" : "2015",
+        "intitule" : "Rouby",
+        "contexte" : "Aide amie projet universitaire",
+        "description" : "Développeur. Mini-jeux. Le joueur possède un rouby - une petite boule avec des pieds - avec lequel il peut faire des mini-jeux afin de gagner des roubifs pour customiser ce dernier.",
+        "technologies" : ["Unity"],
+        "liens" : [{ "libelle" : "code", "url" : "https://github.com/ErwanFactory/rouby"}]
+    },
+    {
+        "date" : "2014",
+        "intitule" : "Site Nantes-Tbilissi",
+        "contexte" : "Site pour association",
+        "description" : "Développeur. Développement d'un site web de présentation pour l'association Nantes-Tbilissi. On peut y retrouver les newsletters, les photos des événements et la présentation de l'association.",
+        "technologies" : ["WordPress", "HTML/CSS", "Javascript"],
+        "liens" : [{ "libelle" : "nantes-tbilissi.fr", "url" : "http://nantes-tbilissi.fr/"}]
+    }
+]
