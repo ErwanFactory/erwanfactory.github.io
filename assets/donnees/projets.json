@@ -19,7 +19,7 @@
         "contexte" : "Laboratoire des Sciences du Numérique de Nantes",
         "description" : "Laboratoire de recherche en multimédia. Sujet : « Visualisation de données oculométriques obtenues dans un environnement de réalité virtuelle/augmentée ». Développement d’un package Unity de visualisation de données oculométriques obtenues grâce à un système de RV (casque HTC Vive, oculométrie SMI).",
         "technologies" : ["Unity", "HTC Vive + SMI", "Python"],
-        "liens" : [{ "libelle" : "LS2N", "url" : "https://www.ls2n.fr/"}, { "libelle" : "Code", "url" : "https://github.com/ErwanFactory/pred-gazevr"}]
+        "liens" : [{ "libelle" : "LS2N", "url" : "https://www.ls2n.fr/"}]
     },
     {
         "date" : "2017",
