@@ -1,5 +1,13 @@
 [
     {
+        "date" : "2019",
+        "intitule" : "Application hybride (NativeScript)",
+        "contexte" : "R&D Apcurium",
+        "description" : "Développement d'une application de visualisation des bus de la STM se basant sur Native Script. Cet outil permet de développer avec une base commune des applications mobiles (iOS, Android) et web.",
+        "technologies" : ["Native Script", "Angular 7", "Material Design", "Mapbox"],
+        "liens" : [{ "libelle" : "NativeScript", "url" : "https://www.nativescript.org/"}, { "libelle" : "Native Script Web & Mobile", "url": "https://blog.angular.io/apps-that-work-natively-on-the-web-and-mobile-9b26852495e7"}]
+    },
+    {
         "date" : "2015 - 2017",
         "intitule" : "Co-Président",
         "contexte" : "Nantarena",

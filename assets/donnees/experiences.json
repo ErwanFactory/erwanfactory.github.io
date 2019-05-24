@@ -1,10 +1,18 @@
 [
     {
+        "date": "Février - Mai 2019",
+        "intitule": "Développeur web",
+        "contexte": "Apcurium (Montréal, Canada)",
+        "description": "Société de service informatique web et mobile (20 empl.). Développement de fonctionnalités sur l’application Dispatch.",
+        "technologies" : ["Angular 6", "Bootstrap", "C#", ".Net Core", "Jira", "Kanban", "Github"],
+        "liens": [{ "libelle" : "dispatch science", "url" : "https://www.dispatchscience.com/"}]
+    },
+    {
         "date": "Mars - Août 2018",
         "intitule": "Ingénieur-stagiaire logiciel",
         "contexte": "Bouygues Telecom (Nantes, France)",
         "description": "Fournisseur d’accès à internet et opérateur téléphonique (7300 empl.). Création d’une application web de visualisation de données d’exécutions des systèmes de l’entreprise.",
-        "technologies" : ["Angular5", "MaterialDesign", "Bootstrap", "D3.js", "Java8", "SpringBoot", "ElasticSearch", "Jira", "Scrum", "Gitlab"],
+        "technologies" : ["Angular 5", "Material Design", "Bootstrap", "D3.js", "Java8", "SpringBoot", "ElasticSearch", "Jira", "Scrum", "Gitlab"],
         "liens": []
     },
     {
