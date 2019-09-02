@@ -59,7 +59,7 @@
         "contexte" : "Grande confiture de jeu",
         "description" : "Développeur. Jeu de plateforme. Le cube avance tout seul et il faut activer/désactiver la gravité pour pouvoir aller sur les bonnes plateformes.",
         "technologies" : ["Unity"],
-        "liens" : [{ "libelle" : "executable", "url" : "assets/jeux/cube-inverseur-gravite-jambes.exe"}, { "libelle" : "code", "url" : "https://github.com/Argann/le-cube-inverseur-de-gravite"}]
+        "liens" : [{ "libelle" : "executable", "url" : "https://github.com/ErwanFactory/le-cube-inverseur-de-gravite-qui-a-des-jambes/releases/download/1.0/cube-inverseur-gravite-jambes.exe"}, { "libelle" : "code", "url" : "https://github.com/Argann/le-cube-inverseur-de-gravite"}]
     },
     {
         "date" : "2015",
